@@ -18,9 +18,9 @@
 		"badge.background": "#2b313b",
 		"badge.foreground": "#c5c8c6",
 		"gitDecoration.ignoredResourceForeground": "#484F5A",
-		"gitDecoration.conflictingResourceForeground": "#AA8A69",
+		"gitDecoration.conflictingResourceForeground": "#e2c08d",
 		"gitDecoration.deletedResourceForeground": "#9B4444",
-		"gitDecoration.modifiedResourceForeground": "#AA8A69",
+		"gitDecoration.modifiedResourceForeground": "#e2c08d",
 		"gitDecoration.untrackedResourceForeground": "#5786B8",
 		"sideBarSectionHeader.background": "#252a32",
 		"sideBarSectionHeader.foreground": "#c5c8c6",
@@ -29,6 +29,9 @@
 		"list.inactiveSelectionForeground": "#DFE1E8",
 		"list.activeSelectionBackground": "#3D7BD1",
 		"list.hoverBackground": "#252a32",
+		"editorGutter.modifiedBackground": "#de935f",
+		"editorGutter.addedBackground": "#acc697",
+		"editorGutter.deletedBackground": "#cc6666",
 	},
 	"tokenColors": [
 		{
