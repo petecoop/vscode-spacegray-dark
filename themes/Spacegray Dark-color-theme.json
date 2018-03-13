@@ -32,6 +32,10 @@
 		"editorGutter.modifiedBackground": "#de935f",
 		"editorGutter.addedBackground": "#acc697",
 		"editorGutter.deletedBackground": "#cc6666",
+		"titleBar.activeBackground": "#2b313b",
+		"titleBar.inactiveBackground": "#252a32",
+		"titleBar.border": "#1a1d23",
+		"editorGroupHeader.tabsBackground": "#252a32"
 	},
 	"tokenColors": [
 		{
