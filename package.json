@@ -1,0 +1,22 @@
+{
+    "name": "spacegray-dark",
+    "displayName": "Spacegray Dark",
+    "description": "Port of the Spacegray Sublime Theme (Default theme - Dark)",
+    "version": "0.0.1",
+    "publisher": "petecoop",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spacegray Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spacegray Dark-color-theme.json"
+            }
+        ]
+    }
+}
