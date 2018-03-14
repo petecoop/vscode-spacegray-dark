@@ -37,7 +37,14 @@
 		"titleBar.border": "#1a1d23",
 		"editorGroupHeader.tabsBackground": "#252a32",
 		"activityBar.background": "#252a32",
-		"activityBar.border": "#1a1d23"
+		"activityBar.border": "#1a1d23",
+		"editorError.foreground": "#cc6666",
+		"editorOverviewRuler.errorForeground": "#cc6666",
+		"editorWarning.foreground": "#de935f",
+		"editorOverviewRuler.warningForeground": "#de935f",
+		"editorInfo.foreground": "#5786B8",
+		"editorOverviewRuler.infoForeground": "#5786B8",
+		"editor.lineHighlightBorder": "#2b313b"
 	},
 	"tokenColors": [
 		{
