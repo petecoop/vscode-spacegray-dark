@@ -196,10 +196,10 @@
 		{
 			"name": "Constant Other Color",
 			"scope": [
-				"constant.other.color"
+				"constant.other"
 			],
 			"settings": {
-				"foreground": "#8abeb7"
+				"foreground": "#EBCB8B"
 			}
 		},
 		{
