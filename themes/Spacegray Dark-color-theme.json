@@ -44,7 +44,8 @@
 		"editorOverviewRuler.warningForeground": "#de935f",
 		"editorInfo.foreground": "#5786B8",
 		"editorOverviewRuler.infoForeground": "#5786B8",
-		"editor.lineHighlightBorder": "#2b313b"
+		"editor.lineHighlightBorder": "#2b313b",
+		"editorGroup.border": "#1a1d23"
 	},
 	"tokenColors": [
 		{
