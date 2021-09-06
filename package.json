@@ -4,6 +4,7 @@
     "description": "Port of the Spacegray Sublime Theme (Default theme - Dark)",
     "version": "0.0.1",
     "publisher": "petecoop",
+    "repository": "https://github.com/petecoop/vscode-spacegray-dark",
     "engines": {
         "vscode": "^1.21.0"
     },
